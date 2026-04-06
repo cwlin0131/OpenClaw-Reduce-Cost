@@ -3,10 +3,9 @@
 **作者：CW ／ [Portaly](https://portaly.cc) 創辦人** — [portaly.cc/cwl](https://portaly.cc/cwl)
 
 > 這是一份寫給 **OpenClaw 新手用戶** 的 Token 消耗管理指南。如果你剛開始用 OpenClaw 搭配 Claude API，卻發現帳單比想像中高很多，這篇會幫你搞懂原因，並提供實測有效的省錢策略。
->
+> 可以將本文章的連結貼給 AI Agent，請他帶著你做！
+> 
 > 文中的 **「Bot」** 指的是你在 OpenClaw 上設定的機器人（你可能幫它取了自己的名字）。
-
-![[Gemini_Generated_Image_p7fiktp7fiktp7fi.png]]
 
 **本文章節：**
 
