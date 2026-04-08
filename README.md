@@ -8,6 +8,8 @@
 > 
 > 文中的 **「Bot」** 指的是你在 OpenClaw 上設定的機器人（你可能幫它取了自己的名字）。
 
+![OpenClaw Token 省錢手冊](assets/openclaw-token-guide.jpg)
+
 **本文章節：**
 
 1. [為什麼 API 費用這麼高？](#一為什麼-api-費用這麼高) — 費用暴增的根本原因：Context Window 機制
